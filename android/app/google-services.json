@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "477084726848",
+    "project_id": "gocab-207bb",
+    "storage_bucket": "gocab-207bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477084726848:android:1c1e19c2546e06a299d1a5",
+        "android_client_info": {
+          "package_name": "com.example.gocab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477084726848-p2grlp5f6hjf9udcl1dhi4598i1qrhrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gocab",
+            "certificate_hash": "a469a07c7cb89ddf72bc40fd5280b2f1d5f870ba"
+          }
+        },
+        {
+          "client_id": "477084726848-6a6p4d4fsaugumiscffa0o8sp8i6chi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDep3xUispEWx8prvlEm0FYITO-iAJcRqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477084726848-6a6p4d4fsaugumiscffa0o8sp8i6chi1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477084726848-9ankhdc9ls1loqefsvjl5b9nrhtbu8tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gocab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
