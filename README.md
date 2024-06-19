@@ -2,6 +2,9 @@
 
 GoCab is a mobile application designed to simplify the process of booking cabs. With a user-friendly interface and robust functionality, GoCab provides a seamless ride-hailing experience for users. The app leverages modern authentication mechanisms, including SMS OTP verification, to ensure secure and reliable user authentication.
 
+
+![LOGO](https://github.com/athullya-mol/GoCab/blob/main/assets/gocab.png)
+
 ## Features
 ### Dual Authentication Methods
 - **Google Sign-In:** Allows users to sign in using their Google accounts quickly and securely.
